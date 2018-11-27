@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "vue-codemirror": "^4.0.6",
-    "vue-split-panel": "^1.0.4"
+    "vue-codemirror": "^4.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.1.1",

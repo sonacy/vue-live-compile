@@ -1,11 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
-import VueSplit from 'vue-split-panel'
 import VueCodemirror from 'vue-codemirror'
 import 'codemirror/lib/codemirror.css'
 
 Vue.config.productionTip = false
-Vue.use(VueSplit)
+
 Vue.use(VueCodemirror)
 
 new Vue({

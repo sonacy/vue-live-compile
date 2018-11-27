@@ -30,7 +30,6 @@ export default {
   },
   methods: {
     handleChangeCode(code) {
-      window.code = code
       this.code = code
       try {
         const sfc = parseComponent(this.code)        

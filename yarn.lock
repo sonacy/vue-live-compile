@@ -6722,11 +6722,6 @@ split-string@^3.0.1, split-string@^3.0.2:
   dependencies:
     extend-shallow "^3.0.0"
 
-split.js@^1.3.5:
-  version "1.5.10"
-  resolved "http://npm.vivo.xyz/split.js/-/split.js-1.5.10.tgz#11f63a7ea21780a6022e6dffe8f8eaa18c9c819e"
-  integrity sha1-EfY6fqIXgKYCLm3/6PjqoYycgZ4=
-
 sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "http://npm.vivo.xyz/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
@@ -7435,13 +7430,6 @@ vue-loader@^15.4.2:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
-
-vue-split-panel@^1.0.4:
-  version "1.0.4"
-  resolved "http://npm.vivo.xyz/vue-split-panel/-/vue-split-panel-1.0.4.tgz#77b75399236bb7610e053598cc33c4988573ad6b"
-  integrity sha1-d7dTmSNrt2EOBTWYzDPEmIVzrWs=
-  dependencies:
-    split.js "^1.3.5"
 
 vue-style-loader@^4.1.0:
   version "4.1.2"
